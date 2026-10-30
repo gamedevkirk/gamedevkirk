@@ -3,7 +3,7 @@
 - 🎮 I'm a freelance game developer
 - 🐶 Founder of [Battle Shiba Studios](https://battleshibastudios.com).
 - 🧑‍💻 Unreal & Godot are my engines of choice
-- 📫 Feel free to [contact me by email](mailto:kirk@battleshibastudios.com), or find me [somewhere else](https://sneakyshiba.net).
+- 📫 Feel free to [contact me by email](mailto:kirk@sneakyshiba.net) or check out my [Personal Site/Blog](https://sneakyshiba.net).
 
 <!---
 gamedevkirk/gamedevkirk is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
